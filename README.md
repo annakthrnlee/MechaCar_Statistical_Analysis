@@ -16,8 +16,8 @@ Some good questions to ask yourself are:
 
 <img width="859" alt="Screen Shot 2022-08-17 at 5 52 23 PM" src="https://user-images.githubusercontent.com/104043438/185263271-a3e70b3b-6509-4bcb-9290-961b5b648b67.png">
 
-The slope (hp) of the linear model was = -0.01846 
-The linear regression model for our dataset would be: qsec = -0.02 + 20.56
+The slope (hp) of the linear model was = -0.01846 and the linear regression model for our dataset would be: qsec = -0.02 + 20.56
+
 The p-value is also quiet small compared to the signifance value. Thus, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
 
 <img width="346" alt="Screen Shot 2022-08-17 at 6 08 08 PM" src="https://user-images.githubusercontent.com/104043438/185264688-bf2f8b16-d1c2-4559-9f3d-9d196429484e.png">
