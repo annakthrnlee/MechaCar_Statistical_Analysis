@@ -48,3 +48,6 @@ The p-value is below our significance level: which indicates strong evidence aga
 - Lot 3: <img width="464" alt="Screen Shot 2022-08-17 at 6 51 41 PM" src="https://user-images.githubusercontent.com/104043438/185268545-a7cf0844-a1bc-438a-8138-6ace88a33062.png">
 
 The p-value is above our significance level: we do not have sufficient evidence to reject the null hypothesis. 
+
+### Deliverable 4: Study Design: MechaCar VS Competition
+
