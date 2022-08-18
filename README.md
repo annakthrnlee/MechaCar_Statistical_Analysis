@@ -63,3 +63,5 @@ As you can see from my summary in deliverable 2, the total variance for all 50 p
 • Alternative Hypothesis (Ha): MechaCar is NOT priced accordingly based on its performance factors for its genre.
 
 The manufacturers of the MechaCar should complete a two-sample t-test by comparing another similar manufacturer with their MechaCar design. Doing so would allow the manufacturers to analyze the statistical difference between the distribution means from the two samples. If the manufacturers wanted to compare their vehicle with multiple other competitors, conducting an ANOVA test should be suggested. 
+
+https://giphy.com/gifs/happy-illustration-3d-Nl4hLznicw6kk9hjtb.GIF
