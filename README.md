@@ -32,15 +32,19 @@ It would appear that the total variance for all 50 prototypes is below the neces
 <img width="496" alt="Screen Shot 2022-08-17 at 6 29 49 PM" src="https://user-images.githubusercontent.com/104043438/185266525-898c66a8-7861-4cf5-a3aa-bf91f898f8fd.png">
 
 ### Deliverable 3: T-Tests on Suspension Coils
-For starters, I used the t.test() function to determine if the PSI across all manufacturing lots was statistically different from the population mean of 1,500 pounds per square inch. Assuming our significance level was the common 0.05%, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis. The p-value for all lots was = 1 
+For starters, I used the t.test() function to determine if the PSI across all manufacturing lots was statistically different from the population mean of 1,500 pounds per square inch. Assuming our significance level was the common 0.05%, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis. The p-value for all lots was = 1 and a p-value less than 0.05 (typically ≤ 0.05) is statistically significant. 
 
 <img width="445" alt="Screen Shot 2022-08-17 at 6 45 57 PM" src="https://user-images.githubusercontent.com/104043438/185267990-4f868ec7-ddb9-4227-9751-3a214a536522.png">
 
 P-value for lots 1-3:
 - Lot 1: <img width="439" alt="Screen Shot 2022-08-17 at 6 50 56 PM" src="https://user-images.githubusercontent.com/104043438/185268486-62b350ce-ce72-46bf-a0e9-afecfee62101.png">
 
+The p-value is above our significance level: we do not have sufficient evidence to reject the null hypothesis. 
+
 - Lot 2: <img width="443" alt="Screen Shot 2022-08-17 at 6 51 22 PM" src="https://user-images.githubusercontent.com/104043438/185268517-c89ad3fa-51f1-4486-b931-118aaf748afd.png">
+
+The p-value is below our significance level: which indicates strong evidence against the null hypothesis, as there is less than a 5% probability the null is correct. Lot 2 is statistically different from the population mean of 1,500 pounds per square inch. 
 
 - Lot 3: <img width="464" alt="Screen Shot 2022-08-17 at 6 51 41 PM" src="https://user-images.githubusercontent.com/104043438/185268545-a7cf0844-a1bc-438a-8138-6ace88a33062.png">
 
-
+The p-value is above our significance level: we do not have sufficient evidence to reject the null hypothesis. 
