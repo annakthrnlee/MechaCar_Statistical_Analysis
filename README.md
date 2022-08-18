@@ -27,6 +27,6 @@ The CSV file contained 3 variables: VehicleID, Manufacturing_Lot, and PSI (pound
 
 <img width="341" alt="Screen Shot 2022-08-17 at 6 21 45 PM" src="https://user-images.githubusercontent.com/104043438/185265873-ab573c3d-8fb1-4597-a1a6-5af1f2905c0a.png">
 
-It would appear that the total variance for all 50 prototypes is below the necessary 100 PSI limit. This is why it's important to also view the lot summary which categorized all of the vehicles into three lots. As you can see below, lot 3 is, however, over the necessary 100 or less PSI. Thus, the manufacturers should review their prototypes and lean more towards manufacturing vehicles that fall under the same category as lot 1 and 2.
+It would appear that the total variance for all 50 prototypes is below the necessary 100 PSI limit. This is why it's important to also view the lot summary which categorized all of the vehicles into three lots. As you can see below, lot 3, however,is over the necessary 100 or less PSI. Thus, the manufacturers should review their prototypes and lean more towards manufacturing vehicles that fall under the same category as lot 1 and 2.
 
 <img width="496" alt="Screen Shot 2022-08-17 at 6 29 49 PM" src="https://user-images.githubusercontent.com/104043438/185266525-898c66a8-7861-4cf5-a3aa-bf91f898f8fd.png">
