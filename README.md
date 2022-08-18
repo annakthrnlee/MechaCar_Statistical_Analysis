@@ -50,4 +50,16 @@ The p-value is below our significance level: which indicates strong evidence aga
 The p-value is above our significance level: we do not have sufficient evidence to reject the null hypothesis. 
 
 ### Deliverable 4: Study Design: MechaCar VS Competition
+Goal: Compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
 
+##### Overall, the MechaCar does a decent job of staying within the required metrics. 
+As you can see from my summary in deliverable 2, the total variance for all 50 prototypes is below the necessary 100 PSI limit. Lot 3, however, was above by more than half which is a problem when it comes to performance against other manufacturers. The MechCar needs to average their total variances out so that each lot stays below 100 PSI, or evaluate lot 1 and 2 to see the differences that correlate with lot 3's high variance. 
+####### Metric: re-consider how heavy each MechaCar is (PSI) and compare that to other manufacturers to see where new vehicles fall on the bell curve distribution. 
+####### Metric: Does the higher PSI found in lot 3 affect the speed of the vehicle enough to deter consumers? 
+
+##### Potential hypothesises: 
+• Null Hypothesis (Ho): MechaCar is priced accordingly based on its performance factors for its genre.
+
+• Alternative Hypothesis (Ha): MechaCar is NOT priced accordingly based on its performance factors for its genre.
+
+The manufacturers of the MechaCar should complete a two-sample t-test by comparing another similar manufacturer with their MechaCar design. Doing so would allow the manufacturers to analyze the statistical difference between the distribution means from the two samples. If the manufacturers wanted to compare their vehicle with multiple other competitors, conducting an ANOVA test should be suggested. 
